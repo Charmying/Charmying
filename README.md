@@ -5,8 +5,11 @@
 如果你想更深入了解我的工作和專案，可以透過以下連結找到我：
 
 個人BLOG：https://charmying-blog.onrender.com/
+
 GitHub：https://github.com/Charmying?tab=repositories
+
 CodePen：https://codepen.io/Charmy_ing
+
 歡迎隨時與我聯繫或查看我的作品！
 
 <!--
