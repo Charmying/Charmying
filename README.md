@@ -1,16 +1,41 @@
-## Hi there 👋
+## **About Me**
 
-<!--
-**Charmying/Charmying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Name：Charmy**
 
-Here are some ideas to get you started:
+- **Position Title:：FrontEnd**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location：Taichung Taiwan**
+
+- **Blog：https://charmying-blog.onrender.com/**
+
+###### <br/>
+
+## **Introduce**
+
+**`HTML` `CSS` `JavaScript` `TypeScript` `Vue` `Angular`**
+
+- **中原大學土木系畢業**
+
+- **緯育 TibaMe 前端工程師就業養成班結訓**
+
+- **前端框架：一開始學的是 `Vue`，自學了一點 `React`，現在工作上使用的是 `Angular`**
+
+- **一開始學程式時先接觸一點 `Python`**
+
+- **在緯育 TibaMe 上課時接觸一些 `PHP` 和 `MySQL` 以及 `UI/UX`**
+
+###### <br/>
+
+## **Interesting**
+
+- **Game： `英雄聯盟`、`激鬥峽谷`、`特戰英豪`、`Apex`、`THE FINALS`**
+
+- **Sport： `籃球`、`羽毛球`、`桌球`**
+
+- **Others： `穿搭`、`攝影`、`美食`**
+
+###### <br/>
+
+## Contacts
+
+- **Email： charmytseng0118@gmail.com**
