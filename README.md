@@ -30,9 +30,9 @@
 
 - **Game： `League of Legends`、`League of Legends: Wild Rift`、`Valorant`、`Apex`、`THE FINALS`**
 
-- **Sport： `籃球`、`羽毛球`、`桌球`**
+- **Sport： `Basketball`、`Badminton`、`Table Tennis`**
 
-- **Others： `穿搭`、`攝影`、`美食`**
+- **Others： `Outfit`、`Photography`、`Culinary Delights`**
 
 ###### <br/>
 
