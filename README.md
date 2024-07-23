@@ -28,7 +28,7 @@
 
 ## **Interesting**
 
-- **Game： `英雄聯盟`、`激鬥峽谷`、`特戰英豪`、`Apex`、`THE FINALS`**
+- **Game： `League of Legends`、`League of Legends: Wild Rift`、`Valorant`、`Apex`、`THE FINALS`**
 
 - **Sport： `籃球`、`羽毛球`、`桌球`**
 
