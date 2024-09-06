@@ -32,7 +32,7 @@
 
 - **前端框架：一開始學的是 `Vue`，自學了一點 `React`，現在工作上使用的是 `Angular`**
 
-  **FrontEnd Frameworks：Initially learned `Vue`, self-studied some `React`, and currently using `Angular` at work."**
+  **FrontEnd Frameworks：Initially learned `Vue`, self-studied some `React`, and currently using `Angular` at work.**
 
 - **在緯育 TibaMe 上課時接觸一些 `PHP` 和 `MySQL` 以及 `UI/UX`**
 
