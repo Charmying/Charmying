@@ -56,7 +56,7 @@
 
 - **其他： `表演`、`穿搭`、`攝影`、`美食`**
 
-  **Others：`Performance`、`Outfit`、`Photography`、`Culinary Delights`**
+  **Others：`Performance`、`Outfit`、`Photography`、`Delicious Food`**
 
 <br />
 
