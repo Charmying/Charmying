@@ -16,12 +16,12 @@
   
 - **前端筆記：https://github.com/Charmying/Notes-----FrontEnd/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
   
-- **Front Eed Notes：https://github.com/Charmying/Notes-----FrontEnd/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
+  **Front Eed Notes：https://github.com/Charmying/Notes-----FrontEnd/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
 
 - **工作筆記：https://github.com/Charmying/Notes-----Work/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
 
-- **Work Notes：https://github.com/Charmying/Notes-----Work/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
-- 
+  **Work Notes：https://github.com/Charmying/Notes-----Work/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
+ 
 - **部落格：https://charmying-blog.onrender.com/**
 
   **Blog：https://charmying-blog.onrender.com/**
