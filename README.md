@@ -4,27 +4,15 @@
 
 - **名字：Charmy**
 
-  **Name：Charmy**
+  **Name: Charmy**
 
 - **職稱：前端**
 
-  **Position：FrontEnd**
+  **Position: Front-end**
 
 - **目前所在地：台中**
 
-  **Location：Taichung Taiwan**
-  
-- **前端筆記：https://github.com/Charmying/Notes-----FrontEnd/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
-  
-  **Front Eed Notes：https://github.com/Charmying/Notes-----FrontEnd/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
-
-- **工作筆記：https://github.com/Charmying/Notes-----Work/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
-
-  **Work Notes：https://github.com/Charmying/Notes-----Work/issues?q=is%3Aissue%20state%3Aopen%20sort%3Acreated-asc**
- 
-- **部落格：https://charmying-blog.onrender.com/**
-
-  **Blog：https://charmying-blog.onrender.com/**
+  **Location: Taichung Taiwan**
 
 <br />
 
@@ -40,7 +28,11 @@
 
 - **前端框架：一開始學的是 `Vue`，自學了一點 `React`，現在工作上使用的是 `Angular`**
 
-  **FrontEnd Frameworks：Initially learned `Vue`, self-studied some `React`, and currently using `Angular` at work.**
+  **Front-end Frameworks: Initially learned `Vue`, self-studied some `React`, and currently using `Angular` at work**
+
+- **後端：目前正在使用 `node.js`，之後準備接觸 `Python` 和 `Java`**
+
+  **Back-end: Currently using `Node.js`, and planning to explore `Python` and `Java` in the future**
 
 - **在緯育 TibaMe 上課時接觸一些 `PHP` 和 `MySQL` 以及 `UI/UX`**
 
@@ -56,20 +48,52 @@
 
 - **電動： `英雄聯盟`、`激鬥峽谷`、`特戰英豪`、`Apex`、`THE FINALS`**
 
-  **Game：`League of Legends`、`League of Legends: Wild Rift`、`Valorant`、`Apex`、`THE FINALS`**
+  **Game: `League of Legends`、`League of Legends: Wild Rift`、`Valorant`、`Apex`、`THE FINALS`**
 
 - **運動： `籃球`、`羽毛球`、`桌球`**
 
-  **Sport：`Basketball`、`Badminton`、`Table Tennis`**
+  **Sport: `Basketball`、`Badminton`、`Table Tennis`**
 
 - **其他： `表演`、`穿搭`、`攝影`、`美食`**
 
-  **Others：`Performance`、`Outfit`、`Photography`、`Delicious Food`**
+  **Others: `Performance`、`Outfit`、`Photography`、`Delicious Food`**
 
 <br />
 
 ## **聯絡我 Contacts**
 
-- **電子信箱： charmytseng0118@gmail.com**
+- **電子信箱：charmytseng0118@gmail.com**
 
-  **Email： charmytseng0118@gmail.com**
+  **Email: charmytseng0118@gmail.com**
+
+<br />
+
+## **GitGub 分類 GitHub Categorization**
+
+- **[前端筆記](https://github.com/Charmying/Notes-Front-end)**
+
+  **[Front-end Notes](https://github.com/Charmying/Notes-Front-end)**
+
+- **[工作筆記](https://github.com/Charmying/Notes-Work)**
+
+  **[Work Notes](https://github.com/Charmying/Notes-Work)**
+
+- **[部落格](https://charmying-blog.onrender.com/)**
+
+  **[Blog](https://charmying-blog.onrender.com/)**
+
+- **[Repositories](https://github.com/Charmying?tab=repositories)**
+
+  **[Repositories](https://github.com/Charmying?tab=repositories)**
+
+- **[Organization：舊 Repositories](https://github.com/orgs/Charmy-Old/repositories)**
+
+  **[Organization: Old Repositories](https://github.com/orgs/Charmy-Old/repositories)**
+
+- **[Organization：測試用 Repositories](https://github.com/orgs/Charmy-Test/repositories)**
+
+  **[Organization: Test Repositories](https://github.com/orgs/Charmy-Test/repositories)**
+
+- **[Organization：緯育課程 Repositories](https://github.com/orgs/Charmy-TibaMe-Course/repositories)**
+
+  **[Organization: TibaMe Course Repositories](https://github.com/orgs/Charmy-TibaMe-Course/repositories)**
