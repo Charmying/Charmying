@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charmy
 
-Frontendd engineer focused on turning complex requirements into **clean, maintainable web applications**.
+Frontend engineer focused on turning complex requirements into **clean, maintainable web applications**.
 I have hands-on experience in building and maintaining **enterprise-level Web and App systems**, with a focus on SPA architecture, frontend refactoring, and API integration.
 Currently, I work primarily with **Angular and TypeScript**, while continuously exploring the React ecosystem.
 
@@ -10,7 +10,7 @@ Currently, I work primarily with **Angular and TypeScript**, while continuously 
 
 - A Frontend engineer with real-world enterprise system experience
 - Develop, maintain, and refactor SPA-based applications
-- Driving features from requirement clarification to function development
+- Driving features from requirement clarification to implementation
 - Value the delivery of clean code, long-term maintainability, and strong team collaboration
 - Based in Taichung, Taiwan
 
@@ -19,7 +19,7 @@ Currently, I work primarily with **Angular and TypeScript**, while continuously 
 ## 🛠 Engineering Focus
 
 - Design frontend architectures that are predictable, readable, and maintainable
-- Refactor legacy systems and reducetechnical debt instead of working around issues
+- Refactor legacy systems and reduce technical debt instead of working around issues
 - Break down complex features into reusable, well-structured modules and components
 - Collaborate closely with backend engineers, designers, and PMs to ensure correct implementation
 
