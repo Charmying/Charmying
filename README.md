@@ -27,12 +27,6 @@ Currently, I work primarily with **Angular and TypeScript**, while continuously 
 
 ## 🚀 Currently Building
 
-### 🍽 QR Code Ordering System
-
-- A QR code–based ordering system focused on real-world restaurant workflows
-- Explore enterprise-ready frontend patterns with Angular and TypeScript
-- 👉 https://front-delta-henna.vercel.app/home
-
 ### 📝 Tech Blog
 - A personal technical blog documenting frontend concepts, architecture decisions, and practical problem solving
 - Built with React and Next.js as a space for continuous learning and reflection
