@@ -28,9 +28,9 @@ Currently, I work primarily with **Angular and TypeScript**, while continuously 
 ## 🚀 Currently Building
 
 ### 📝 Tech Blog
-- A personal technical blog documenting frontend concepts, architecture decisions, and practical problem solving
+- A personal blog documenting frontend concepts, architecture decisions, and practical problem solving
 - Built with React and Next.js as a space for continuous learning and reflection
-- 👉 https://react-next-js-turbopack.vercel.app/
+- 👉 https://charmying-blog.vercel.app/en
 
 ---
 
